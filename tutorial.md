@@ -299,3 +299,9 @@ Possible answer:
 ***
 
 90 min.
+
+Additional topics (if time):
+
+while loops
+string functions
+list comprehensions
