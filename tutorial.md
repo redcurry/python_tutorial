@@ -58,6 +58,9 @@ Note: Important to say float(d) (or 2.0) in case d is an integer
 ***
 
 
+Comment your code with the pound sign.
+
+
 15 min.
 
 
